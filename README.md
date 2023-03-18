@@ -4,8 +4,15 @@ While my algorithm for generating prime numbers may not be considered revolution
 ### 1. The set $p_k$  contains k prime numbers. 
 
 ```math
-p_k = \{ p_0, p_1, p_2..p_k \}
+p_k = \{ p_0, p_1, p_2...p_k \}
 ```
 
-$$a_k $$
+
+### 2. Assume that $p_k$ \phi  contains k prime numbers. 
+
+```math
+p_k = \{ p_0, p_1, p_2...p_k \}
+```
+
+
 

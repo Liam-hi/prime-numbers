@@ -7,6 +7,5 @@ While my algorithm for generating prime numbers may not be considered revolution
 \sqrt{3}
 ```
 
-$\p_k
-
+$$\a_k $$
 

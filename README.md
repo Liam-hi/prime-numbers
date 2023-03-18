@@ -8,7 +8,7 @@ p_k = \{ p_0, p_1, p_2...p_k \}
 ```
 
 
-### 2. Assume that $p_k$ \phi  contains k prime numbers. 
+### 2. Assume that $\phi$ is an integer bigger than $p_k$ and less than $p_k+2$ 
 
 ```math
 p_k = \{ p_0, p_1, p_2...p_k \}

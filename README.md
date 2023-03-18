@@ -15,6 +15,20 @@ p_k = \{ p_0, p_1, p_2...p_k \}
 ```math
 q\cdot P:= \left\{ (p_{0}\phi), (p_{1}\phi), (p_{2}\phi)...(p_{k}\phi) \right\}
 ```
+
 4. Use the elements in $q\cdot P$ to create a $\left| P_{k}  \right|\times \left| P_{k}  \right|$ matrix according to:
+
+
+```math
+\begin{pmatrix}
+ \phi p_{0}modp_{0} &  \phi p_{0}modp_{1}  &\phi p_{0}modp_{2} & ... & ... &  \phi p_{0}modp_{k}  \\
+ \phi p_{1}modp_{0} &  \phi p_{1}modp_{1}  &\phi p_{1}modp_{2} & ... & ... &  \phi p_{1}modp_{k}  \\
+ \phi p_{2}modp_{0} &  \phi p_{2}modp_{1}  &\phi p_{2}modp_{2} & ... & ... &  \phi p_{2}modp_{k}  \\
+ . &. & . & . & . & .  \\
+ . &. & . & . & . & .  \\
+ . &. & . & . & . & .  \\
+ \phi p_{k}modp_{0} &  \phi p_{k}modp_{1} & . & . & . & \phi p_{k}modp_{k}  & 
+\end{pmatrix}
+```
 
 

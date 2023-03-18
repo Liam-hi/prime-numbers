@@ -86,7 +86,7 @@ q\cdot P:= \left\{(2\cdot 11), (3\cdot 11), (5\cdot 11),  (7\cdot 11) \right\} =
 ```
 
 
-## Thoughts 
+## Experiment: 
 
 Let us look at the first prime numbers, 2 and 3. If $P = \{ 2, 3 \}$ and $q = 4$ generates a singular matrix, change $q$ to 5. If $P = \{ 2, 3 \}$ and  $q = 5$ generates a nonsingular matrix, change $P = \{ 2, 3 \}$ to $P = \{ 2, 3, 5\}$. Now let us look at $P = \{ 2, 3, 5\}$ and $q = 7$ (we can skip 6  because 6 is an even number). $P = \{ 2, 3, 5\}$ and $q = 7$ generates a valid matrix so we can change $P = \{ 2, 3, 5\}$ to $P = \{ 2, 3, 5, 7\}$. $P = \{ 2, 3, 5, 7\}$ and $q = 9$ generates a singular matrix so we can move to $q = 11$ and so on.
 

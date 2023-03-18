@@ -4,7 +4,7 @@ While my algorithm for generating prime numbers may not be considered revolution
 ### 1. The set $p_k$  contains k prime numbers. 
 
 ```math
-p = {3}
+\{ c \}
 ```
 
 $$a_k $$

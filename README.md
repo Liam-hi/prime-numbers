@@ -87,7 +87,7 @@ q\cdot P:= \left\{(2\cdot 11), (3\cdot 11), (5\cdot 11),  (7\cdot 11) \right\} =
 
 ## Thoughts 
 
-Let us look at the first prime numbers, 2 and 3. If $P = \left\{ 2, 3 \right\$ and generates a singular matrix, change  to 5. If   and  generates a matrix whose diagonal element are all equal to zero (only zeros on diagonal) and nonsingular, change  to . Now let us look at  and  (we can skip  because  is an even number ).  and  generates a valid matrix so we can change  to .  and  generates a singular matrix so we can move to 
+Let us look at the first prime numbers, 2 and 3. If $P = \{ p_1, p_2\}$ and $q = 4$ generates a singular matrix, change  to 5. If   and  generates a matrix whose diagonal element are all equal to zero (only zeros on diagonal) and nonsingular, change  to . Now let us look at  and  (we can skip  because  is an even number ).  and  generates a valid matrix so we can change  to .  and  generates a singular matrix so we can move to 
 
 
 

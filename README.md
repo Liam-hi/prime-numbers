@@ -1,4 +1,4 @@
-## Introduction:
+## :books: Introduction:
 
 During my math class, I had the opportunity to develop an algorithm that generates prime numbers using prime numbers.
 While my algorithm for generating prime numbers may not be considered revolutionary, it is still a unique solution that showcases my ability to think creatively and analytically.
@@ -33,7 +33,7 @@ q\cdot P:= \left\{ (p_{0}\phi), (p_{1}\phi), (p_{2}\phi)...(p_{k}\phi) \right\}
 \end{pmatrix}
 ```
 
-## Example:
+## :pencil2: Example:
 
 1. The set $p_4$ contains the first 4 prime numbers. 
 
@@ -62,9 +62,9 @@ q\cdot P:= \left\{(2\cdot 11), (3\cdot 11), (5\cdot 11),  (7\cdot 11) \right\} =
 \end{pmatrix}
 ```
 
-## Example: 
+## :pencil2: Example: 
 
-1. $p_14$ generates the matrix
+1. $p_{14}$ generates the matrix
 
 ```math
 \begin{pmatrix}
@@ -86,7 +86,7 @@ q\cdot P:= \left\{(2\cdot 11), (3\cdot 11), (5\cdot 11),  (7\cdot 11) \right\} =
 ```
 
 
-## Experiment: 
+## :test_tube: Experiment: 
 
 Let us look at the first prime numbers, 2 and 3. If $P = \{ 2, 3 \}$ and $q = 4$ generates a singular matrix, change $q$ to 5. If $P = \{ 2, 3 \}$ and  $q = 5$ generates a nonsingular matrix, change $P = \{ 2, 3 \}$ to $P = \{ 2, 3, 5\}$. Now let us look at $P = \{ 2, 3, 5\}$ and $q = 7$ (we can skip 6  because 6 is an even number). $P = \{ 2, 3, 5\}$ and $q = 7$ generates a valid matrix so we can change $P = \{ 2, 3, 5\}$ to $P = \{ 2, 3, 5, 7\}$. $P = \{ 2, 3, 5, 7\}$ and $q = 9$ generates a singular matrix so we can move to $q = 11$ and so on.
 

@@ -62,7 +62,7 @@ q\cdot P:= \left\{(2\cdot 11), (3\cdot 11), (5\cdot 11),  (7\cdot 11) \right\} =
 \end{pmatrix}
 ```
 
-Example: 
+## Example: 
 
 1. $p_14$ generates the matrix
 

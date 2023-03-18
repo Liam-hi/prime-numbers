@@ -7,6 +7,6 @@ While my algorithm for generating prime numbers may not be considered revolution
 \sqrt{3}
 ```
 
-$\sqrt{3x-1}+(1+x)^2$
+$\p_{a}
 
 

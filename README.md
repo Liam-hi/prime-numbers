@@ -8,7 +8,8 @@ p_k = \{ p_0, p_1, p_2...p_k \}
 ```
 
 
-### 2. Assume that $\phi$ is an integer bigger than $p_k$ and less than $p_{k+2}$ 
+### 2. Assume that $\phi$ is an integer bigger than $p_k$ and less than $p_{k+2}$. If $\phi$ is a prime, then $\phi = p_{k + 1}$
+
 
 ```math
 p_k = \{ p_0, p_1, p_2...p_k \}
